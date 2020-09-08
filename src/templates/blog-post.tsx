@@ -4,6 +4,7 @@ import styled from "styled-components"
 import { thColor, ThemePart } from "../theme"
 import { darken } from "polished"
 import Title from "../components/title"
+import SEO from "../components/seo"
 
 interface Props {
   data: {
@@ -54,6 +55,7 @@ export default ({
   },
 }: Props) => (
   <>
+    <SEO title={frontmatter.title} />
     <Title />
     <BlogPostContainer>
       <BlogPost>
