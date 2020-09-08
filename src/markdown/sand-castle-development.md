@@ -1,0 +1,28 @@
+---
+slug: "/blog/sand-castle-development"
+date: "2020-09-06"
+title: "Building Sand Castles"
+---
+
+# Hello World
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+> Violations of DRY are typically referred to as WET solutions, which is commonly taken to stand for “write every time”, “write everything twice”, “we enjoy typing” or “waste everyone’s time”.
+
+## Abc
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+- Lorem Ipsum is simply 1
+- Lorem Ipsum is simply 2
+- Lorem Ipsum is simply 3
+ 
+ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+```typescript
+const a = (n: number[]) => n.map(b => `--${b}`);
+console.log(a([1, 2, 3, 4, 5]));
+```
+
+hello
